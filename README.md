@@ -10,12 +10,14 @@ Date : 18/06/2026
 
 Création du repo 'linux-admin-b2-lola-moureau'
 
-
 ## Prérequis
 
 - Terminal
 - GitHub
 
+# Mission 2
+
+Creation d'un script d'automatisation de creation et configuration de comptes
 
 
 ## Tableau de synthèse
