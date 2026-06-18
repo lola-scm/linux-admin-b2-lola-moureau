@@ -25,7 +25,7 @@ Creation d'un script d'automatisation de creation et configuration de comptes
 | Mission | Statut | Points estimés |
 |----------|----------|----------|
 | Mission 1 | ✅ | 10/10 |
-| Mission 2 | ❌ | 0/20 |
+| Mission 2 | ✅ | 18/20 |
 | Mission 3 | ❌ | 0/20 |
 | Mission 4 | ❌ | 0/20 |
 | Mission 5 | ❌ | 0/20 |
