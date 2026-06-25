@@ -19,6 +19,17 @@ Création du repo 'linux-admin-b2-lola-moureau'
 
 Creation d'un script d'automatisation de creation et configuration de comptes
 
+# Mission 3
+
+Creation d'un espace de travail partagé avec des règles d'accès
+
+# Mission 4
+
+Creation d'un service systemd qui surveille l'activité de connexion
+
+# Mission 5
+
+Configuration du pare-feu pour limiter les connexions 
 
 ## Tableau de synthèse
 
@@ -26,6 +37,6 @@ Creation d'un script d'automatisation de creation et configuration de comptes
 |----------|----------|----------|
 | Mission 1 | ✅ | 10/10 |
 | Mission 2 | ✅ | 18/20 |
-| Mission 3 | ❌ | 0/20 |
-| Mission 4 | ❌ | 0/20 |
-| Mission 5 | ❌ | 0/20 |
+| Mission 3 | ✅ | 15/20 |
+| Mission 4 | ✅ | 15/20 |
+| Mission 5 | ✅ | 15/20 |
